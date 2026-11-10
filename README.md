@@ -35,7 +35,7 @@ La navigation entre les différentes pages est assurée par *React Router DOM*, 
 ## Installation et Lancement
 
 ### 1. Cloner le projet
-git clone https://github.com/ton-username/dev-workspace.git
+git clone https://github.com/Edahba/dev-workspace.git
 
 ### 2. Accéder au dossier
 cd dev-workspace
